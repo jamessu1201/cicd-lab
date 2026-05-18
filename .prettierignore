@@ -1,2 +1,16 @@
 dist/
 node_modules/
+
+# build / 報告產物
+reports/
+ 
+# lock 檔（由套件管理工具維護，不需格式化）
+package-lock.json
+ 
+# 課程提供的範例 yaml，非本次作業需要格式化的核心程式碼
+snippets/
+ 
+# Docker 相關設定
+docker-compose.yml
+Dockerfile
+ 
